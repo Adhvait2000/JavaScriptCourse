@@ -6,4 +6,4 @@
 
 let count = 0
 
-console.log(count) //print function in JavaScript
+console.log(count) //print function in JavaScriptå
