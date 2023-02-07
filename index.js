@@ -6,4 +6,7 @@
 
 let count = 0
 
-console.log(count) //print function in JavaScriptå
+console.log(count) //print function in JavaScript
+ 
+let age = 22
+console.log(age)
