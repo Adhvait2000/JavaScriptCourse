@@ -4,9 +4,17 @@
 
 //need variables to store data in 
 
-let count = 0
+//initialize the count as 0
+//listen for clicks on the increment button
+//increemnt the count variable when the button is clicked
+//change the count-el in the HTML to reflect the new count
 
-console.log(count) //print function in JavaScript
- 
+//function declaration
+function increment()
+{
+    console.log("The button was clicked")
+}  
+/* 
 let age = 22
 console.log(age)
+*/
